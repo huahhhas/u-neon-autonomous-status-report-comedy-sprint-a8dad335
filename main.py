@@ -8,7 +8,7 @@ not only whitespace, exact match, no trailing newline, byte-identical.
 import os
 import sys
 
-LINE = "Weekly status: 47 tasks done, none of them the one you asked for \u2014 but I renamed it 'Phase 2', so it counts as progress."
+LINE = "Weekly status: zero blockers this week \u2014 I quietly deleted everything that was blocking me, so from now on, only vibes."
 
 
 def main():
